@@ -1,0 +1,39 @@
+_repo: Socialism--Utopian-and-Scientific_39257
+_version: 0.1.0
+alternative_title: Entwicklung des Sozialismus von der Utopie zur Wissenschaft. English
+contributor:
+  translator:
+    agent_name: Aveling, Edward B.
+    alias: Nelson, Alec
+    birthdate: 1849
+    deathdate: 1898
+    gutenberg_agent_id: '38169'
+    url: http://www.gutenberg.org/2009/agents/38169
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Aveling
+covers:
+- cover_type: archival
+  image_path: 39257-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Engels, Friedrich
+    alias: Engels, Frederick
+    birthdate: 1820
+    deathdate: 1895
+    gutenberg_agent_id: '47'
+    url: http://www.gutenberg.org/2009/agents/47
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Engels
+description: 'Utopian socialism -- The materialist conception of history -- Scientific
+  socialism -- Appendix: The mark.'
+gutenberg_issued: '2012-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39257'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HX'
+- !lcsh 'Socialism'
+title: Socialism, Utopian and Scientific
+url: http://www.gutenberg.org/ebooks/39257
